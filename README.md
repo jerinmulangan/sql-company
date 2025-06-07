@@ -87,7 +87,7 @@ The Swing UI lists **SELECT** for every table, 4 views, and the 15 project que
 
 ![Update Employee Initial Screen](assets/update_employee.png "Update Employee Initial Screen")
 
-![Update Employee Choose Primary Key](assets/assets/update_employee_1.png "Update Employee Choose Primary Key")
+![Update Employee Choose Primary Key](assets/update_employee_1.png "Update Employee Choose Primary Key")
 
 ![Update Employee (View Attributes)](assets/update_employee_2.png "Update Employee (View Attributes)")
 
