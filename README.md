@@ -65,40 +65,40 @@ java -cp "bin;lib\mysql-connector-j-9.3.0.jar" SQLConsole
 The Swing UI lists **SELECT** for every table, 4 views, and the 15 project queries; 
 	Any **SELECT** in dropdown displays entire table, view or query
 	
-![Initial Screen](intro.png "Initial Screen")
+![Initial Screen](assets/intro.png "Initial Screen")
 
-![Select Employee](select_employee.png "Select Employee Table")
+![Select Employee](assets/select_employee.png "Select Employee Table")
 
-![Select Query](select_query1.png "Select Query")
+![Select Query](assets/select_query1.png "Select Query")
 
-![Query Result](select_query2.png "Select Query Result")
+![Query Result](assets/select_query2.png "Select Query Result")
 
 **INSERT** to add a custom entity to any table, tables are listed in dropdown menu
 	If INSERT is accepted by SQL, message will be displayed to notify user, else an error message will be displayed
 	User can insert into any table
 
-![Insert into Employee](insert_employee.png "Insert into Employee (Choose Table)")
+![Insert into Employee](assets/insert_employee.png "Insert into Employee (Choose Table)")
 
-![Insert into Employee (Values)](insert_employee_2.png "Insert into Employee (Set Attribute Values)")
+![Insert into Employee (Values)](assets/insert_employee_2.png "Insert into Employee (Set Attribute Values)")
 
 **UPDATE** any table provided user knows the primary key of the table
 	User is prompted for PK, and upon successful PK, can view all attributes of that entity
 	User can update one or more attributes and will receive a message with the result of their UPDATE
 
-![Update Employee Initial Screen](update_employee.png "Update Employee Initial Screen")
+![Update Employee Initial Screen](assets/update_employee.png "Update Employee Initial Screen")
 
-![Update Employee Choose Primary Key](update_employee_1.png "Update Employee Choose Primary Key")
+![Update Employee Choose Primary Key](assets/assets/update_employee_1.png "Update Employee Choose Primary Key")
 
-![Update Employee (View Attributes)](update_employee_2.png "Update Employee (View Attributes)")
+![Update Employee (View Attributes)](assets/update_employee_2.png "Update Employee (View Attributes)")
 
-![Update Confirmation](update_employee_3.png "Update Confirmation")
+![Update Confirmation](assets/update_employee_3.png "Update Confirmation")
 
-![View Updated Attributes](post_update_employee.png "View Updated Attributes")
+![View Updated Attributes](assets/post_update_employee.png "View Updated Attributes")
 
 **DELETE** any row in table with primary key
 	User receives message with status of DELETE
 
-![Delete Employee](delete_employee.png "Delete Employee")
+![Delete Employee](assets/delete_employee.png "Delete Employee")
 
 Choose **Custom SQL…** for anything else.
 
