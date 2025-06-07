@@ -9,6 +9,7 @@ A full‑stack mini–information‑system for a mid‑sized manufacturing firm:
 |Seeding|**Python 3 (Faker + PyMySQL)**|Generates ~500 persons, HR, sales & procurement sample data|
 |App|**Java 17 Swing + JDBC**|Cross‑platform console to explore tables, 15 canned analytics queries & ad‑hoc SQL|
 |Demo|**PHP 8** (optional)|Shows vulnerable vs. parameterized code for SQL‑injection awareness|
+
 **Key features**  
 • 30 tables, 4 views, 8 triggers, 15 graded project queries  
 • Rich ER / EER / logical diagrams (PDFs in `docs/`)  
