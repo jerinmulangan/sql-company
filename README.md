@@ -1,6 +1,8 @@
 
 ## XYZCOMPANY RDBMS & Query Java Console
 
+This project is for CS 4347 Database Systems Course
+
 A full‑stack mini–information‑system for a mid‑sized manufacturing firm:
 
 |Layer|Technology|Purpose|
